@@ -1,6 +1,6 @@
 cask "pokemonpet" do
-  version "1.0.8"
-  sha256 "151f10d0c794049c4756b6e701a6cb6fc5498f014f84c2bf5dec66278abe730e"
+  version "1.0.9"
+  sha256 "e0b2493c07951fec8c7e7a68a04a9f0e9b28e0d9fbf13c5824caff4fa891bb13"
 
   url "https://github.com/kang-yujeong/homebrew-pokemonpet/releases/download/v#{version}/PokemonPet-v#{version}.zip"
   name "PokemonPet"
